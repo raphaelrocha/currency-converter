@@ -21,7 +21,7 @@
     "outDir": "./lib",
     "sourceMap": true,
     "skipLibCheck": true,
-    "types": ["styled-components-react-native"]
+    "types": ["styled-components-react-native", "jest"]
     /* Skip type checking all .d.ts files. */
   },
   "include": ["./src"],
